@@ -1,0 +1,2037 @@
+{
+"2027": {
+"addr": "Čechova 244/8, 66451 Šlapanice",
+"tel": "734 176 027"
+},
+"2037": {
+"addr": "Brodská 495, 26101 Příbram",
+"tel": "734 176 037"
+},
+"2052": {
+"addr": "Kostelní 3, 51801 Dobruška",
+"tel": "734 176 052"
+},
+"2058": {
+"addr": "Husovo náměstí 35, 58813 Polná",
+"tel": "734 176 058"
+},
+"2059": {
+"addr": "Husovo náměstí 46, 58813 Polná",
+"tel": "734 176 059"
+},
+"2061": {
+"addr": "Masarykovo nám. 23, 39811 Protivín",
+"tel": "734 176 061"
+},
+"2063": {
+"addr": "Hlavní třída 1020/57, 70800 Ostrava",
+"tel": "734 176 063"
+},
+"2064": {
+"addr": "Masarykovo náměstí 16/15, 68001 Boskovice",
+"tel": "734 176 064"
+},
+"2065": {
+"addr": "Karola Śliwky 44/10, 73301 Karviná",
+"tel": "734 176 065"
+},
+"2067": {
+"addr": "17. listopadu 641/22, 70800 Ostrava",
+"tel": "734 176 067"
+},
+"2071": {
+"addr": "Masarykovo náměstí 56, 75201 Kojetín",
+"tel": "734 176 071"
+},
+"2074": {
+"addr": "Hlavní 1485, 73911 Frýdlant nad Ostravicí",
+"tel": "734 176 074"
+},
+"2076": {
+"addr": "Masarykovo náměstí 65, 59301 Bystřice nad Pernštejnem",
+"tel": "734 176 076"
+},
+"2078": {
+"addr": "Horní 1486/61, 70030 Ostrava",
+"tel": "734 176 078"
+},
+"2080": {
+"addr": "Raškovice 401, 73904 Raškovice",
+"tel": "734 176 080"
+},
+"2084": {
+"addr": "Heydukova 83, 73801 Frýdek-Místek",
+"tel": "734 176 084"
+},
+"2087": {
+"addr": "30. dubna 3003/1a, 70200 Ostrava",
+"tel": "734 176 087"
+},
+"2092": {
+"addr": "Hlavní třída 168/46, 73601 Havířov",
+"tel": "734 176 092"
+},
+"2096": {
+"addr": "Palackého náměstí 183/28, 66491 Ivančice",
+"tel": "734 176 096"
+},
+"2097": {
+"addr": "Poštovní 367, 73961 Třinec",
+"tel": "734 176 097"
+},
+"2100": {
+"addr": "Riegrova 215, 39901 Milevsko",
+"tel": "734 176 100"
+},
+"2103": {
+"addr": "Míru 149, 79070 Javorník",
+"tel": "734 176 103"
+},
+"2104": {
+"addr": "Borovského 875/32a, 73401 Karviná",
+"tel": "734 176 104"
+},
+"2107": {
+"addr": "Divišovo náměstí 250/7, 66902 Znojmo",
+"tel": "734 176 107"
+},
+"2108": {
+"addr": "tř. Dr. E. Beneše 1155, 73581 Bohumín",
+"tel": "734 176 108"
+},
+"2117": {
+"addr": "tř. T. G. Masaryka 633, 73801 Frýdek-Místek",
+"tel": "734 176 117"
+},
+"2118": {
+"addr": "Hlučínská 684/6, 74723 Bolatice",
+"tel": "734 176 118"
+},
+"2119": {
+"addr": "K náměstí 19, 73944 Brušperk",
+"tel": "734 176 119"
+},
+"2120": {
+"addr": "Tylova 725, 76502 Otrokovice",
+"tel": "734 176 120"
+},
+"2132": {
+"addr": "Radnická 1199/17, 59401 Velké Meziříčí",
+"tel": "734 176 132"
+},
+"2133": {
+"addr": "náměstí Tomáše Bati 626, 39102 Sezimovo Ústí",
+"tel": "734 176 133"
+},
+"2139": {
+"addr": "Bratislavská 551/26, 69301 Hustopeče",
+"tel": "734 176 139"
+},
+"2148": {
+"addr": "nám. Osvobození 469, 66482 Říčany",
+"tel": "734 176 148"
+},
+"2151": {
+"addr": "Krátká 60, 41108 Štětí",
+"tel": "734 176 151"
+},
+"2160": {
+"addr": "Moravská 726, 76811 Chropyně",
+"tel": "734 176 160"
+},
+"2161": {
+"addr": "Sušilovo náměstí 367/1, 68301 Rousínov",
+"tel": "734 176 161"
+},
+"2162": {
+"addr": "nám. Republiky 697, 74213 Studénka",
+"tel": "734 176 162"
+},
+"2191": {
+"addr": "Dlouhá 5, 66471 Veverská Bítýška",
+"tel": "734 176 191"
+},
+"2193": {
+"addr": "Masarykova třída 1323, 73514 Orlová",
+"tel": "734 176 193"
+},
+"2194": {
+"addr": "Husova 1133, 50601 Jičín",
+"tel": "734 176 194"
+},
+"2197": {
+"addr": "Rokycanova 1532, 34701 Tachov",
+"tel": "734 176 197"
+},
+"2198": {
+"addr": "Kounicova 15/73, 60200 Brno",
+"tel": "734 176 198"
+},
+"2205": {
+"addr": "tř. J. P. Koubka 240, 38801 Blatná",
+"tel": "734 176 205"
+},
+"2225": {
+"addr": "Palackého nám. 514, 39464 Počátky",
+"tel": "734 176 225"
+},
+"2226": {
+"addr": "Vídeňská 281/77, 63900 Brno",
+"tel": "734 176 226"
+},
+"2229": {
+"addr": "Dr. Maye 809/2, 70900 Ostrava",
+"tel": "734 176 229"
+},
+"2232": {
+"addr": "Erbenova 2906, 47001 Česká Lípa",
+"tel": "734 176 232"
+},
+"2233": {
+"addr": "nám. 9. května 400, 58263 Ždírec nad Doubravou",
+"tel": "734 176 233"
+},
+"2234": {
+"addr": "Hlavní 187, 69617 Dolní Bojanovice",
+"tel": "734 176 234"
+},
+"2241": {
+"addr": "nám. Jana Žižky z Trocnova 3/3, 28601 Čáslav",
+"tel": "734 176 241"
+},
+"2242": {
+"addr": "Jiřího náměstí 34/20, 29001 Poděbrady",
+"tel": "734 176 242"
+},
+"2244": {
+"addr": "Nám. T. G. Masaryka 187, 58282 Golčův Jeníkov",
+"tel": "734 176 244"
+},
+"2248": {
+"addr": "Masarykovo náměstí 9/22, 69701 Kyjov",
+"tel": "734 176 248"
+},
+"2249": {
+"addr": "Velká nad Veličkou 975, 69674 Velká nad Veličkou",
+"tel": "734 176 249"
+},
+"2256": {
+"addr": "Nádražní 115, 67904 Adamov",
+"tel": "734 176 256"
+},
+"2257": {
+"addr": "Radotínská 29, 25228 Černošice",
+"tel": "734 176 257"
+},
+"2259": {
+"addr": "Poděbradská 489/116, 19800 Praha",
+"tel": "734 176 259"
+},
+"2260": {
+"addr": "Svatoplukova 654, 69801 Veselí nad Moravou",
+"tel": "734 176 260"
+},
+"2264": {
+"addr": "nám. 9. května 821, 58822 Luka nad Jihlavou",
+"tel": "734 176 264"
+},
+"2265": {
+"addr": "Nádražní 1857, 56002 Česká Třebová",
+"tel": "734 176 265"
+},
+"2266": {
+"addr": "Komenského 446/6, 46601 Jablonec nad Nisou",
+"tel": "734 176 266"
+},
+"2267": {
+"addr": "17. listopadu 6225/74, 70800 Ostrava",
+"tel": "734 176 267"
+},
+"2271": {
+"addr": "Karlovo nám. 24/18, 67401 Třebíč",
+"tel": "734 176 271"
+},
+"2274": {
+"addr": "Pražská 636, 25241 Dolní Břežany",
+"tel": "734 176 274"
+},
+"2275": {
+"addr": "Osecká 1531, 41901 Duchcov",
+"tel": "734 176 275"
+},
+"2277": {
+"addr": "Hlavní třída 107, 73801 Frýdek-Místek",
+"tel": "734 176 277"
+},
+"2278": {
+"addr": "Klicperovo náměstí 63, 50351 Chlumec nad Cidlinou",
+"tel": "734 176 278"
+},
+"2279": {
+"addr": "nám. Republiky 1487/3, 59101 Žďár nad Sázavou",
+"tel": "734 176 279"
+},
+"2280": {
+"addr": "Masarykovo náměstí 1212/49, 58601 Jihlava",
+"tel": "734 176 280"
+},
+"2282": {
+"addr": "Pražská 456/28a, 40801 Rumburk",
+"tel": "734 176 282"
+},
+"2284": {
+"addr": "Jičínská 11, 74258 Příbor",
+"tel": "734 176 284"
+},
+"2285": {
+"addr": "Příbramská 1176, 26401 Sedlčany",
+"tel": "734 176 285"
+},
+"2286": {
+"addr": "Obchodní 1452, 36301 Ostrov",
+"tel": "734 176 286"
+},
+"2289": {
+"addr": "Veslařská 549/52, 63700 Brno",
+"tel": "734 176 289"
+},
+"2290": {
+"addr": "Josefská 500, 47201 Doksy",
+"tel": "734 176 290"
+},
+"2291": {
+"addr": "náměstí Míru 131, 34401 Domažlice",
+"tel": "734 176 291"
+},
+"2292": {
+"addr": "Vracovská 1578, 69681 Bzenec",
+"tel": "734 176 292"
+},
+"2293": {
+"addr": "J. A. Bati 5648, 76001 Zlín",
+"tel": "734 176 293"
+},
+"2294": {
+"addr": "Pražská 1948, 26301 Dobříš",
+"tel": "734 176 294"
+},
+"2295": {
+"addr": "Nábřeží 1357, 76361 Napajedla",
+"tel": "606 298 341"
+},
+"2300": {
+"addr": "Jana Švermy 17, 43201 Kadaň",
+"tel": "734 176 300"
+},
+"2302": {
+"addr": "Jungmannova 75, 27801 Kralupy nad Vltavou",
+"tel": "734 176 302"
+},
+"2303": {
+"addr": "Masarykovo náměstí 4, 34901 Stříbro",
+"tel": "734 176 303"
+},
+"2304": {
+"addr": "Dolní 155, 58001 Havlíčkův Brod",
+"tel": "734 176 304"
+},
+"2305": {
+"addr": "Akademika Bedrny 383/10a, 50003 Hradec Králové",
+"tel": "734 176 305"
+},
+"2306": {
+"addr": "Josefa Kajetána Tyla 1786, 35601 Sokolov",
+"tel": "734 176 306"
+},
+"2307": {
+"addr": "Skupova 490/24, 30100 Plzeň",
+"tel": "734 176 307"
+},
+"2309": {
+"addr": "Suchovrbenské nám. 2724/7, 37006 České Budějovice",
+"tel": "734 176 309"
+},
+"2310": {
+"addr": "Velké Albrechtice 324, 74291 Velké Albrechtice",
+"tel": "734 176 310"
+},
+"2311": {
+"addr": "Seifertova 2/3, 41801 Bílina",
+"tel": "734 176 311"
+},
+"2312": {
+"addr": "nám. Míru 1704, 66601 Tišnov",
+"tel": "734 176 312"
+},
+"2314": {
+"addr": "Wilsonova 300/8, 12000 Praha",
+"tel": "734 176 314"
+},
+"2315": {
+"addr": "Palachova 1404/2, 46001 Liberec",
+"tel": "734 176 315"
+},
+"2316": {
+"addr": "Masarykova 200, 76326 Luhačovice",
+"tel": "734 176 316"
+},
+"2320": {
+"addr": "třída Obránců míru 4, 43801 Žatec",
+"tel": "734 176 320"
+},
+"2323": {
+"addr": "Horní 2233/6, 59101 Žďár nad Sázavou",
+"tel": "734 176 323"
+},
+"2324": {
+"addr": "náměstí Antonie Bejdové 1810/10, 70800 Ostrava",
+"tel": "734 176 324"
+},
+"2326": {
+"addr": "Masarykovo náměstí 4333/68, 58601 Jihlava",
+"tel": "734 176 326"
+},
+"2329": {
+"addr": "Palackého nám. 53, 38001 Dačice",
+"tel": "734 176 329"
+},
+"2330": {
+"addr": "Jablonecká 423/70, 19000 Praha",
+"tel": "734 176 330"
+},
+"2331": {
+"addr": "Fr. Ondříčka 417/52, 37011 České Budějovice",
+"tel": "734 176 331"
+},
+"2332": {
+"addr": "Březinova 4248/62, 58601 Jihlava",
+"tel": "734 176 332"
+},
+"2333": {
+"addr": "Novodvorská 434/149, 14200 Praha",
+"tel": "734 176 333"
+},
+"2335": {
+"addr": "Chodovická 2311/30, 19300 Praha",
+"tel": "734 176 335"
+},
+"2336": {
+"addr": "Zámečnická 492/2, 77900 Olomouc",
+"tel": "734 176 336"
+},
+"2339": {
+"addr": "Solní 1924, 39301 Pelhřimov",
+"tel": "734 176 339"
+},
+"2340": {
+"addr": "nám. Přerovského povstání 2803/1, 75002 Přerov",
+"tel": "734 176 340"
+},
+"2343": {
+"addr": "Bohumíra Četyny 3025/15, 70030 Ostrava",
+"tel": "734 176 343"
+},
+"2346": {
+"addr": "Kpt. Jaroše 2392, 39003 Tábor",
+"tel": "734 176 346"
+},
+"2347": {
+"addr": "Opatovská 874/25, 14900 Praha",
+"tel": "734 176 347"
+},
+"2349": {
+"addr": "Fibichova 225/17, 73601 Havířov",
+"tel": "734 176 349"
+},
+"2351": {
+"addr": "tř. Dr. E. Beneše 1124, 73581 Bohumín",
+"tel": "734 176 351"
+},
+"2352": {
+"addr": "Komenského náměstí 999, 59231 Nové Město na Moravě",
+"tel": "734 176 352"
+},
+"2353": {
+"addr": "třída Míru 112, 53002 Pardubice",
+"tel": "734 176 353"
+},
+"2354": {
+"addr": "třída Edvarda Beneše 1530/70, 50012 Hradec Králové",
+"tel": "734 176 354"
+},
+"2356": {
+"addr": "Bělehradská 201/1, 14000 Praha",
+"tel": "734 176 356"
+},
+"2357": {
+"addr": "Mukařovského 1985/5, 15500 Praha",
+"tel": "734 176 357"
+},
+"2358": {
+"addr": "Kolaříkova 1497/1, 62100 Brno",
+"tel": "734 176 358"
+},
+"2359": {
+"addr": "Dolní náměstí 20/46, 77900 Olomouc",
+"tel": "734 176 359"
+},
+"2360": {
+"addr": "Výškovická 2636/116, 70030 Ostrava",
+"tel": "734 176 360"
+},
+"2363": {
+"addr": "Libušina třída 918/17a, 62300 Brno",
+"tel": "734 176 363"
+},
+"2364": {
+"addr": "Hlavní náměstí 111/25, 79401 Krnov",
+"tel": "734 176 364"
+},
+"2365": {
+"addr": "Nová 193, 57201 Polička",
+"tel": "734 176 365"
+},
+"2366": {
+"addr": "Zvolenská 526, 38301 Prachatice",
+"tel": "734 176 366"
+},
+"2367": {
+"addr": "náměstí Českého Ráje 25, 51101 Turnov",
+"tel": "734 176 367"
+},
+"2368": {
+"addr": "Bubenské nábřeží 306/13, 17000 Praha",
+"tel": "734 176 368"
+},
+"2370": {
+"addr": "Karlovo nám. 134/4, 67401 Třebíč",
+"tel": "734 176 370"
+},
+"2373": {
+"addr": "Dlouhá třída 1225/44, 73601 Havířov",
+"tel": "734 176 373"
+},
+"2374": {
+"addr": "Hlavní třída 6147/52, 70800 Ostrava",
+"tel": "734 176 374"
+},
+"2375": {
+"addr": "T. G. Masaryka 345, 27201 Kladno",
+"tel": "734 176 375"
+},
+"2378": {
+"addr": "Latrán 41, 38101 Český Krumlov",
+"tel": "734 176 378"
+},
+"2379": {
+"addr": "Pořádí 2283, 68801 Uherský Brod",
+"tel": "734 176 379"
+},
+"2380": {
+"addr": "Gen. Svobody 20/4, 78701 Šumperk",
+"tel": "734 176 380"
+},
+"2381": {
+"addr": "Mostní 814, 27801 Kralupy nad Vltavou",
+"tel": "734 176 381"
+},
+"2382": {
+"addr": "Nové náměstí 1239/2, 74221 Kopřivnice",
+"tel": "734 176 382"
+},
+"2383": {
+"addr": "17. listopadu 53/16, 69002 Břeclav",
+"tel": "734 176 383"
+},
+"2384": {
+"addr": "třída Tomáše Bati 6, 76001 Zlín",
+"tel": "734 176 384"
+},
+"2385": {
+"addr": "Americká 1787/58, 30100 Plzeň",
+"tel": "734 176 385"
+},
+"2386": {
+"addr": "náměstí Míru 54/55, 56802 Svitavy",
+"tel": "734 176 386"
+},
+"2387": {
+"addr": "ČSA 114/21, 78501 Šternberk",
+"tel": "734 176 387"
+},
+"2388": {
+"addr": "Sokolovská 58/219, 19000 Praha",
+"tel": "734 176 388"
+},
+"2389": {
+"addr": "Horní náměstí 259/17, 66902 Znojmo",
+"tel": "734 176 389"
+},
+"2390": {
+"addr": "Masarykova 3127/28, 40001 Ústí nad Labem",
+"tel": "734 176 390"
+},
+"2392": {
+"addr": "Masarykovo náměstí 8, 75301 Hranice",
+"tel": "734 176 392"
+},
+"2393": {
+"addr": "Karlovo náměstí 7, 28002 Kolín",
+"tel": "734 176 393"
+},
+"2394": {
+"addr": "Osvoboditelů 36/11, 41002 Lovosice",
+"tel": "734 176 394"
+},
+"2395": {
+"addr": "nám. Svobody 1321, 75501 Vsetín",
+"tel": "734 176 395"
+},
+"2396": {
+"addr": "Sokolovská 5/49, 18600 Praha",
+"tel": "734 176 396"
+},
+"2397": {
+"addr": "Náměstí 92/25, 75701 Valašské Meziříčí",
+"tel": "734 176 397"
+},
+"2399": {
+"addr": "Karlovo náměstí 2097/9, 12000 Praha",
+"tel": "734 176 399"
+},
+"2400": {
+"addr": "Polní 681, 43151 Klášterec nad Ohří",
+"tel": "734 176 400"
+},
+"2401": {
+"addr": "Karla IV. 104/2, 37001 České Budějovice",
+"tel": "734 176 401"
+},
+"2403": {
+"addr": "Mírové náměstí 157/30, 41201 Litoměřice",
+"tel": "734 176 403"
+},
+"2404": {
+"addr": "Husovo náměstí 159, 26901 Rakovník",
+"tel": "734 176 404"
+},
+"2405": {
+"addr": "Štěpánkova 90, 53701 Chrudim",
+"tel": "734 176 405"
+},
+"2406": {
+"addr": "T. G. Masaryka 494/23, 36001 Karlovy Vary",
+"tel": "734 176 406"
+},
+"2407": {
+"addr": "Střelničná 0/5, 18200 Praha",
+"tel": "734 176 407"
+},
+"2408": {
+"addr": "Zenklova 286/26, 18000 Praha",
+"tel": "734 176 408"
+},
+"2410": {
+"addr": "Žižkovo náměstí 5, 50601 Jičín",
+"tel": "734 176 410"
+},
+"2412": {
+"addr": "Kostelní 41/24, 28802 Nymburk",
+"tel": "734 176 412"
+},
+"2413": {
+"addr": "Velké náměstí 142, 38601 Strakonice",
+"tel": "734 176 413"
+},
+"2414": {
+"addr": "Pražská 69/11, 25001 Brandýs nad Labem-Stará Boleslav",
+"tel": "734 176 414"
+},
+"2415": {
+"addr": "28. října 1837/25, 70200 Ostrava",
+"tel": "734 176 415"
+},
+"2416": {
+"addr": "9. května 687, 43601 Litvínov",
+"tel": "734 176 416"
+},
+"2418": {
+"addr": "náměstí Svobody 702/9, 60200 Brno",
+"tel": "734 176 418"
+},
+"2419": {
+"addr": "Vítkovická 3278/3, 70200 Ostrava",
+"tel": "734 176 419"
+},
+"2421": {
+"addr": "Pražská 161, 33901 Klatovy",
+"tel": "734 176 421"
+},
+"2422": {
+"addr": "Baťkovo náměstí 552/2, 50002 Hradec Králové",
+"tel": "734 176 422"
+},
+"2423": {
+"addr": "U vodárny 878/16, 13000 Praha",
+"tel": "734 176 423"
+},
+"2425": {
+"addr": "Nádražní 1759, 37001 České Budějovice",
+"tel": "734 176 425"
+},
+"2426": {
+"addr": "Cihlářova 4/17, 57101 Moravská Třebová",
+"tel": "777 355 426"
+},
+"2427": {
+"addr": "Masarykovo náměstí 363/41, 68201 Vyškov",
+"tel": "734 176 427"
+},
+"2428": {
+"addr": "Masarykovo náměstí 167, 75661 Rožnov pod Radhoštěm",
+"tel": "734 176 428"
+},
+"2430": {
+"addr": "9. května 2886, 39002 Tábor",
+"tel": "734 176 430"
+},
+"2433": {
+"addr": "Krkonošská 16, 54301 Vrchlabí",
+"tel": "734 176 433"
+},
+"2441": {
+"addr": "Průmyslová 2043, 25088 Čelákovice",
+"tel": "734 176 441"
+},
+"2442": {
+"addr": "U Letiště 1074/2, 30100 Plzeň",
+"tel": "734 176 442"
+},
+"2443": {
+"addr": "Polská 1201/1, 77900 Olomouc",
+"tel": "734 176 443"
+},
+"2447": {
+"addr": "Krkonošská 668, 46841 Tanvald",
+"tel": "734 176 447"
+},
+"2448": {
+"addr": "Jana Kouly 1488, 28201 Český Brod",
+"tel": "734 176 448"
+},
+"2449": {
+"addr": "Hlavní třída 269/21, 35301 Mariánské Lázně",
+"tel": "734 176 449"
+},
+"2453": {
+"addr": "tř. Těreškovové 2233/28, 73401 Karviná",
+"tel": "734 176 453"
+},
+"2454": {
+"addr": "J. A. Komenského 1189, 39901 Milevsko",
+"tel": "734 176 454"
+},
+"2456": {
+"addr": "Mariánské náměstí 34, 73991 Jablunkov",
+"tel": "734 176 456"
+},
+"2457": {
+"addr": "nám. Přátelství 666, 38301 Prachatice",
+"tel": "734 176 457"
+},
+"2459": {
+"addr": "Rožmitálská 34, 26272 Březnice",
+"tel": "734 176 459"
+},
+"2460": {
+"addr": "Husovo nám. 89/17, 26601 Beroun",
+"tel": "734 176 460"
+},
+"2461": {
+"addr": "tř. Kosmonautů 113/27, 77900 Olomouc",
+"tel": "734 176 461"
+},
+"2462": {
+"addr": "J. Pácla 695, 56002 Česká Třebová",
+"tel": "734 176 462"
+},
+"2463": {
+"addr": "Táborská 2028, 25228 Černošice",
+"tel": "734 176 463"
+},
+"2465": {
+"addr": "nám. Svobody 8, 38901 Vodňany",
+"tel": "734 176 465"
+},
+"2467": {
+"addr": "Poštovní 153, 76824 Hulín",
+"tel": "734 176 467"
+},
+"2468": {
+"addr": "Přímá 671, 76001 Zlín",
+"tel": "734 176 468"
+},
+"2471": {
+"addr": "Polská 1308, 56206 Ústí nad Orlicí",
+"tel": "734 176 471"
+},
+"2473": {
+"addr": "Ďáblická 1061, 18200 Praha",
+"tel": "734 176 473"
+},
+"2474": {
+"addr": "Růžová 42, 37701 Jindřichův Hradec",
+"tel": "734 176 474"
+},
+"2477": {
+"addr": "Revoluční třída 767, 50401 Nový Bydžov",
+"tel": "734 176 477"
+},
+"2479": {
+"addr": "nám. Arnošta z Pardubic 11, 28201 Český Brod",
+"tel": "734 176 479"
+},
+"2480": {
+"addr": "Černokostelecká 2555/22a, 25101 Říčany",
+"tel": "734 176 480"
+},
+"2481": {
+"addr": "Masarykovo nám. 1, 33401 Přeštice",
+"tel": "734 176 481"
+},
+"2482": {
+"addr": "Kpt. Jaroše 748/8, 67401 Třebíč",
+"tel": "734 176 482"
+},
+"2483": {
+"addr": "Karla Steinera 910/7, 31800 Plzeň",
+"tel": "734 176 483"
+},
+"2484": {
+"addr": "Trávník 322/29, 75002 Přerov",
+"tel": "734 176 484"
+},
+"2485": {
+"addr": "náměstí Osvobození 260/9, 78901 Zábřeh",
+"tel": "734 176 485"
+},
+"2486": {
+"addr": "Rožnovská 916, 75701 Valašské Meziříčí",
+"tel": "734 176 486"
+},
+"2487": {
+"addr": "náměstí Osvoboditelů 1371, 15300 Praha",
+"tel": "734 176 487"
+},
+"2489": {
+"addr": "nám. Svobody 76, 58832 Brtnice",
+"tel": "734 176 489"
+},
+"2491": {
+"addr": "Kostelecká 265, 27711 Neratovice",
+"tel": "734 176 491"
+},
+"2492": {
+"addr": "Budějovická 371, 25242 Jesenice",
+"tel": "734 176 492"
+},
+"2493": {
+"addr": "Opletalova 34/1, 79201 Bruntál",
+"tel": "734 176 493"
+},
+"2495": {
+"addr": "Mírové náměstí 104/28, 40001 Ústí nad Labem",
+"tel": "734 176 495"
+},
+"2497": {
+"addr": "Dolní Valy 3940/2, 69501 Hodonín",
+"tel": "734 176 497"
+},
+"2498": {
+"addr": "Na přeložce 290, 34601 Horšovský Týn",
+"tel": "734 176 498"
+},
+"2499": {
+"addr": "Hartigova 188/30, 13000 Praha",
+"tel": "734 176 499"
+},
+"2501": {
+"addr": "Jesenická 647, 79326 Vrbno pod Pradědem",
+"tel": "734 176 501"
+},
+"2504": {
+"addr": "Příčná 1272/9, 78401 Litovel",
+"tel": "734 176 504"
+},
+"2506": {
+"addr": "Lidická 1637, 25801 Vlašim",
+"tel": "734 176 506"
+},
+"2508": {
+"addr": "Krakonošovo náměstí 67, 54101 Trutnov",
+"tel": "734 176 508"
+},
+"2509": {
+"addr": "V. Hálka 32, 54301 Vrchlabí",
+"tel": "734 176 509"
+},
+"2510": {
+"addr": "Komenského 591, 50901 Nová Paka",
+"tel": "734 176 510"
+},
+"2511": {
+"addr": "Velehradská třída 1206, 68601 Uherské Hradiště",
+"tel": "734 176 511"
+},
+"2512": {
+"addr": "Husova 156, 25901 Votice",
+"tel": "734 176 512"
+},
+"2513": {
+"addr": "Kutnohorská 226, 50004 Hradec Králové",
+"tel": "734 176 513"
+},
+"2517": {
+"addr": "Chebská 2931, 35201 Aš",
+"tel": "734 176 517"
+},
+"2518": {
+"addr": "Masarykova 430/25, 60200 Brno",
+"tel": "734 176 518"
+},
+"2519": {
+"addr": "Krajinská 250/14, 37001 České Budějovice",
+"tel": "734 176 519"
+},
+"2522": {
+"addr": "Pražská 1147/23, 67961 Letovice",
+"tel": "734 176 522"
+},
+"2524": {
+"addr": "Masarykova 347, 46822 Železný Brod",
+"tel": "734 176 524"
+},
+"2525": {
+"addr": "Prusíkova 2577/16, 15500 Praha",
+"tel": "734 176 525"
+},
+"2527": {
+"addr": "Husitská 1922, 50901 Nová Paka",
+"tel": "734 176 527"
+},
+"2529": {
+"addr": "Bezručova 1215, 37401 Trhové Sviny",
+"tel": "734 176 529"
+},
+"2530": {
+"addr": "Dolní náměstí 22, 39601 Humpolec",
+"tel": "734 176 530"
+},
+"2531": {
+"addr": "náměstí Svobody 3316, 41501 Teplice",
+"tel": "734 176 531"
+},
+"2534": {
+"addr": "Hodonínská 105, 69603 Dubňany",
+"tel": "734 176 534"
+},
+"2535": {
+"addr": "náměstí Republiky 1065, 29301 Mladá Boleslav",
+"tel": "734 176 535"
+},
+"2537": {
+"addr": "Dukelská brána 212/3, 79601 Prostějov",
+"tel": "734 176 537"
+},
+"2538": {
+"addr": "Na Lávkách 55, 51741 Kostelec nad Orlicí",
+"tel": "734 176 538"
+},
+"2539": {
+"addr": "Bezděkovská 72, 38601 Strakonice",
+"tel": "734 176 539"
+},
+"2541": {
+"addr": "Osvobození 54, 76321 Slavičín",
+"tel": "734 176 541"
+},
+"2542": {
+"addr": "Brandlova 1599/8, 14900 Praha",
+"tel": "734 176 542"
+},
+"2543": {
+"addr": "Kafkova 1223/8, 77900 Olomouc",
+"tel": "734 176 543"
+},
+"2545": {
+"addr": "Obchodní 111, 25101 Čestlice",
+"tel": "734 176 545"
+},
+"2546": {
+"addr": "Jablunkovská 1935/10, 73701 Český Těšín",
+"tel": "734 176 546"
+},
+"2547": {
+"addr": "náměstí Svobody 170, 34201 Sušice",
+"tel": "734 176 547"
+},
+"2548": {
+"addr": "nám. Míru 7, 67602 Moravské Budějovice",
+"tel": "734 176 548"
+},
+"2549": {
+"addr": "Ježkova 1169/3, 46006 Liberec",
+"tel": "734 176 549"
+},
+"2550": {
+"addr": "Antala Staška 184, 51251 Lomnice nad Popelkou",
+"tel": "734 176 550"
+},
+"2551": {
+"addr": "Pavlovická 272/18, 77900 Olomouc",
+"tel": "734 176 551"
+},
+"2552": {
+"addr": "Slovanská 275/16, 78701 Šumperk",
+"tel": "734 176 552"
+},
+"2553": {
+"addr": "Rudná 3114/114, 70030 Ostrava",
+"tel": "734 176 553"
+},
+"2556": {
+"addr": "Mírové Náměstí 55, 38411 Netolice",
+"tel": "734 176 556"
+},
+"2557": {
+"addr": "náměstí Trčků z Lípy 100, 58291 Světlá nad Sázavou",
+"tel": "734 176 557"
+},
+"2560": {
+"addr": "náměstí 13. prosince 1182/17, 66412 Oslavany",
+"tel": "734 176 560"
+},
+"2561": {
+"addr": "Velké náměstí 2/22, 39701 Písek",
+"tel": "734 176 561"
+},
+"2563": {
+"addr": "Mánesova 954, 68771 Bojkovice",
+"tel": "734 176 563"
+},
+"2564": {
+"addr": "alej Svobody 770/23, 32300 Plzeň",
+"tel": "734 176 564"
+},
+"2565": {
+"addr": "náměstí T. G. Masaryka 27, 67201 Moravský Krumlov",
+"tel": "734 176 565"
+},
+"2569": {
+"addr": "Havlíčkova 32, 74401 Frenštát pod Radhoštěm",
+"tel": "734 176 569"
+},
+"2570": {
+"addr": "náměstí Míru 4, 67167 Hrušovany nad Jevišovkou",
+"tel": "734 176 570"
+},
+"2574": {
+"addr": "Adámkova třída 185, 53901 Hlinsko",
+"tel": "734 176 574"
+},
+"2577": {
+"addr": "Pražská 614, 28163 Kostelec nad Černými lesy",
+"tel": "734 176 577"
+},
+"2579": {
+"addr": "Bělehradská 677, 53351 Pardubice",
+"tel": "734 176 579"
+},
+"2580": {
+"addr": "třída T. G. Masaryka 879, 55203 Česká Skalice",
+"tel": "734 176 580"
+},
+"2581": {
+"addr": "Jiřího Tomana 276, 53009 Pardubice",
+"tel": "734 176 581"
+},
+"2586": {
+"addr": "Křenovická 1854, 68401 Slavkov u Brna",
+"tel": "734 176 586"
+},
+"2589": {
+"addr": "Želivského 5050/2, 46605 Jablonec nad Nisou",
+"tel": "734 176 589"
+},
+"2590": {
+"addr": "Opavská 6201/1a, 70800 Ostrava",
+"tel": "734 176 590"
+},
+"2592": {
+"addr": "Masarykovo nám. 60, 67571 Náměšť nad Oslavou",
+"tel": "734 176 592"
+},
+"2593": {
+"addr": "Újezd 438, 69662 Strážnice",
+"tel": "734 176 593"
+},
+"2596": {
+"addr": "Svobody 1025, 37901 Třeboň",
+"tel": "734 176 596"
+},
+"2597": {
+"addr": "Čujkovova 2775/46a, 70030 Ostrava",
+"tel": "734 176 597"
+},
+"2598": {
+"addr": "Plzeňská 83/2, 40502 Děčín",
+"tel": "734 176 598"
+},
+"2599": {
+"addr": "Smetanova 984, 53973 Skuteč",
+"tel": "734 176 599"
+},
+"2602": {
+"addr": "Legionářská 1265/70, 66434 Kuřim",
+"tel": "734 176 602"
+},
+"2603": {
+"addr": "Fügnerova 667/7, 46001 Liberec",
+"tel": "734 176 603"
+},
+"2605": {
+"addr": "U Rejdiště 4485/2a, 76701 Kroměříž",
+"tel": "734 176 605"
+},
+"2607": {
+"addr": "Okružní 4271/8, 79601 Prostějov",
+"tel": "734 176 607"
+},
+"2608": {
+"addr": "Masarykovo nám. 34, 28911 Pečky",
+"tel": "734 176 608"
+},
+"2609": {
+"addr": "Průběžná 2483, 39301 Pelhřimov",
+"tel": "734 176 609"
+},
+"2611": {
+"addr": "Pražská 1349/22, 26801 Hořovice",
+"tel": "734 176 611"
+},
+"2612": {
+"addr": "Husovo náměstí 139, 58401 Ledeč nad Sázavou",
+"tel": "734 176 612"
+},
+"2613": {
+"addr": "Krušnohorská 3371/2, 40011 Ústí nad Labem",
+"tel": "734 176 613"
+},
+"2614": {
+"addr": "Havlíčkova 6, 53701 Chrudim",
+"tel": "734 176 614"
+},
+"2615": {
+"addr": "Netroufalky 770/16, 62500 Brno",
+"tel": "734 176 615"
+},
+"2616": {
+"addr": "Národní 4/8, 35101 Františkovy Lázně",
+"tel": "734 176 616"
+},
+"2617": {
+"addr": "Josefa Hory 7, 54401 Dvůr Králové nad Labem",
+"tel": "734 176 617"
+},
+"2619": {
+"addr": "Leštinská 2429/1, 78901 Zábřeh",
+"tel": "734 176 619"
+},
+"2622": {
+"addr": "Pražská 1071, 25210 Mníšek pod Brdy",
+"tel": "734 176 622"
+},
+"2623": {
+"addr": "Pivovarská 1677/19, 35002 Cheb",
+"tel": "734 176 623"
+},
+"2624": {
+"addr": "Sklářská 333, 28506 Sázava",
+"tel": "734 176 624"
+},
+"2625": {
+"addr": "Horní 283/87, 70030 Ostrava",
+"tel": "734 176 625"
+},
+"2627": {
+"addr": "Koterovská 2390/47, 32600 Plzeň",
+"tel": "734 176 627"
+},
+"2628": {
+"addr": "nádraží Veleslavín-vestibul m 0/47, 16200 Praha",
+"tel": "734 176 628"
+},
+"2629": {
+"addr": "Italská 50, 27201 Kladno",
+"tel": "734 176 629"
+},
+"2630": {
+"addr": "Okružní 4701, 76005 Zlín",
+"tel": "734 176 630"
+},
+"2632": {
+"addr": "Sadová 0, 38501 Vimperk",
+"tel": "734 176 632"
+},
+"2633": {
+"addr": "náměstí Republiky 43, 28002 Kolín",
+"tel": "734 176 633"
+},
+"2634": {
+"addr": "Seifertova 2000, 41501 Teplice",
+"tel": "734 176 634"
+},
+"2635": {
+"addr": "Dukelských bojovníků 3638/155, 67181 Znojmo",
+"tel": "734 176 635"
+},
+"2636": {
+"addr": "Horní náměstí 371/1, 77900 Olomouc",
+"tel": "734 176 636"
+},
+"2637": {
+"addr": "Šumperská 527, 78391 Uničov",
+"tel": "734 176 637"
+},
+"2638": {
+"addr": "Májová 104/31, 35002 Cheb",
+"tel": "734 176 638"
+},
+"2639": {
+"addr": "Dolecká 969, 55101 Jaroměř",
+"tel": "734 176 639"
+},
+"2641": {
+"addr": "Masarykovo náměstí 7, 33701 Rokycany",
+"tel": "734 176 641"
+},
+"2643": {
+"addr": "Plzeňská 899, 33301 Stod",
+"tel": "734 176 643"
+},
+"2645": {
+"addr": "Mírové náměstí 106, 55001 Broumov",
+"tel": "734 176 645"
+},
+"2648": {
+"addr": "Vnoučkova 840, 25601 Benešov",
+"tel": "734 176 648"
+},
+"2649": {
+"addr": "Smetanovo náměstí 1975, 58001 Havlíčkův Brod",
+"tel": "734 176 649"
+},
+"2650": {
+"addr": "Kolínská 174, 28504 Uhlířské Janovice",
+"tel": "734 176 650"
+},
+"2652": {
+"addr": "Armádního generála Ludvíka Krejčí 5, 56164 Jablonné nad Orlicí",
+"tel": "734 176 652"
+},
+"2653": {
+"addr": "Vodní 54/7, 76701 Kroměříž",
+"tel": "734 176 653"
+},
+"2654": {
+"addr": "Nádražní 831, 26242 Rožmitál pod Třemšínem",
+"tel": "734 176 654"
+},
+"2655": {
+"addr": "Průběžná 2551, 37004 České Budějovice",
+"tel": "734 176 655"
+},
+"2656": {
+"addr": "Luženská 2721, 26901 Rakovník",
+"tel": "734 176 656"
+},
+"2661": {
+"addr": "náměstí 5. května 55, 41117 Libochovice",
+"tel": "734 176 661"
+},
+"2662": {
+"addr": "U Autodílen 2205, 43601 Litvínov",
+"tel": "734 176 662"
+},
+"2664": {
+"addr": "Mostecká 1063, 51721 Týniště nad Orlicí",
+"tel": "734 176 664"
+},
+"2665": {
+"addr": "Krále Jana 307, 58301 Chotěboř",
+"tel": "734 176 665"
+},
+"2667": {
+"addr": "Svatoanenská 338, 58856 Telč",
+"tel": "734 176 667"
+},
+"2668": {
+"addr": "Masarykova 1201/75, 31200 Plzeň",
+"tel": "734 176 668"
+},
+"2669": {
+"addr": "Nový Bor 883, 47301 Nový Bor",
+"tel": "734 176 669"
+},
+"2671": {
+"addr": "Tylova 232/3, 28401 Kutná Hora",
+"tel": "734 176 671"
+},
+"2672": {
+"addr": "Moravská 999, 56169 Králíky",
+"tel": "734 176 672"
+},
+"2673": {
+"addr": "Wilsonova 3230/15, 75002 Přerov",
+"tel": "734 176 673"
+},
+"2674": {
+"addr": "Chomutovská 1316, 43401 Most",
+"tel": "734 176 674"
+},
+"2675": {
+"addr": "Těsnohlídkova 1898/146b, 66451 Šlapanice",
+"tel": "734 176 675"
+},
+"2676": {
+"addr": "Václavské náměstí 263, 53501 Přelouč",
+"tel": "734 176 676"
+},
+"2678": {
+"addr": "Komenského 2302, 68001 Boskovice",
+"tel": "734 176 678"
+},
+"2679": {
+"addr": "Revoluční 179, 44101 Podbořany",
+"tel": "734 176 679"
+},
+"2682": {
+"addr": "Revoluční 1412, 25092 Šestajovice",
+"tel": "734 176 682"
+},
+"2683": {
+"addr": "Marie Majerové 2165/20, 41201 Litoměřice",
+"tel": "734 176 683"
+},
+"2684": {
+"addr": "Tyršova 2011, 35801 Kraslice",
+"tel": "734 176 684"
+},
+"2685": {
+"addr": "Anglická 623, 46334 Hrádek nad Nisou",
+"tel": "734 176 685"
+},
+"2686": {
+"addr": "Dvořákova 1163, 56301 Lanškroun",
+"tel": "734 176 686"
+},
+"2688": {
+"addr": "Pražská 256, 25401 Jílové u Prahy",
+"tel": "734 176 688"
+},
+"2689": {
+"addr": "Hradební 34, 54371 Hostinné",
+"tel": "734 176 689"
+},
+"2691": {
+"addr": "Masarykovo náměstí 497, 50401 Nový Bydžov",
+"tel": "734 176 691"
+},
+"2692": {
+"addr": "nám. Tyrše a Fügnera 191/3, 78985 Mohelnice",
+"tel": "734 176 692"
+},
+"2693": {
+"addr": "Náměstí 200/12, 69201 Mikulov",
+"tel": "734 176 693"
+},
+"2696": {
+"addr": "Americká 859/14, 30100 Plzeň",
+"tel": "734 176 696"
+},
+"2697": {
+"addr": "Kmochova 923/12, 77900 Olomouc",
+"tel": "734 176 697"
+},
+"2698": {
+"addr": "Nádražní 320, 68501 Bučovice",
+"tel": "734 176 698"
+},
+"2699": {
+"addr": "Zbraslavské náměstí 454, 15600 Praha",
+"tel": "734 176 699"
+},
+"2700": {
+"addr": "T. G. Masaryka 2003, 54901 Nové Město nad Metují",
+"tel": "734 176 700"
+},
+"2702": {
+"addr": "Ševčíkova 34, 34101 Horažďovice",
+"tel": "734 176 702"
+},
+"2705": {
+"addr": "Ostrožná 25/30, 74601 Opava",
+"tel": "734 176 705"
+},
+"2707": {
+"addr": "Revoluční 593, 25163 Strančice",
+"tel": "734 176 707"
+},
+"2708": {
+"addr": "ČSLA 41, 39111 Planá nad Lužnicí",
+"tel": "734 176 708"
+},
+"2712": {
+"addr": "Před Tratí 1460/3a, 73564 Havířov",
+"tel": "734 176 712"
+},
+"2713": {
+"addr": "nám. 3. května 1877, 76502 Otrokovice",
+"tel": "734 176 713"
+},
+"2714": {
+"addr": "Tovární 132, 38101 Český Krumlov",
+"tel": "735 725 714"
+},
+"2715": {
+"addr": "Žatecká 866, 33141 Kralovice",
+"tel": "735 725 715"
+},
+"2718": {
+"addr": "Lodžská 850/6, 18100 Praha",
+"tel": "735 725 718"
+},
+"2719": {
+"addr": "Hlavní 2459/108, 14100 Praha",
+"tel": "735 725 719"
+},
+"2720": {
+"addr": "Želatovská 3563/40, 75002 Přerov",
+"tel": "735 725 720"
+},
+"2721": {
+"addr": "Švermova 654/9, 62500 Brno",
+"tel": "735 725 721"
+},
+"2722": {
+"addr": "Pražská 4296, 27601 Mělník",
+"tel": "735 725 722"
+},
+"2723": {
+"addr": "Cihelní 295/42, 74801 Hlučín",
+"tel": "735 725 723"
+},
+"2724": {
+"addr": "Nádražní 3, 66701 Židlochovice",
+"tel": "735 725 724"
+},
+"2727": {
+"addr": "Za Tratí 1359, 73961 Třinec",
+"tel": "735 725 727"
+},
+"2728": {
+"addr": "Mostní 54/17, 75701 Valašské Meziříčí",
+"tel": "735 725 728"
+},
+"2729": {
+"addr": "Opavská 3402/59b, 74721 Kravaře",
+"tel": "735 725 729"
+},
+"2731": {
+"addr": "Ing. Fr. Janečka 585, 25741 Týnec nad Sázavou",
+"tel": "735 725 731"
+},
+"2733": {
+"addr": "Ovčáry 304, 28002 Ovčáry",
+"tel": "735 725 733"
+},
+"2734": {
+"addr": "Veselská 663, 19900 Praha",
+"tel": "735 725 734"
+},
+"2735": {
+"addr": "Průmyslová 2700/3, 78501 Šternberk",
+"tel": "735 725 735"
+},
+"2739": {
+"addr": "Smetanovo náměstí 33, 57001 Litomyšl",
+"tel": "735 725 739"
+},
+"2740": {
+"addr": "5. května 8/10, 58901 Třešť",
+"tel": "735 725 740"
+},
+"2741": {
+"addr": "Palackého nám. 30, 66501 Rosice",
+"tel": "735 725 741"
+},
+"2742": {
+"addr": "Tyršova 2048/43, 66434 Kuřim",
+"tel": "735 725 742"
+},
+"2744": {
+"addr": "Pražská 1544, 27351 Unhošť",
+"tel": "735 725 744"
+},
+"2745": {
+"addr": "Pražská 2285, 25082 Úvaly"
+},
+"2746": {
+"addr": "Československé mládeže 3554, 40747 Varnsdorf",
+"tel": "735 725 746"
+},
+"2747": {
+"addr": "Jana Želivského 1790/35, 13000 Praha",
+"tel": "735 725 747"
+},
+"2748": {
+"addr": "Kaštanová 579/76, 62000 Brno",
+"tel": "735 725 748"
+},
+"2749": {
+"addr": "Žižkova 508, 51401 Jilemnice",
+"tel": "735 725 749"
+},
+"2750": {
+"addr": "Východní 2260, 68603 Staré Město",
+"tel": "735 725 750"
+},
+"2751": {
+"addr": "Mendlovo náměstí 686/15a, 60300 Brno",
+"tel": "735 725 751"
+},
+"2752": {
+"addr": "Počernická 699/62, 10800 Praha",
+"tel": "735 725 752"
+},
+"2753": {
+"addr": "Obchodní 1000, 39201 Soběslav",
+"tel": "735 725 753"
+},
+"2754": {
+"addr": "T. G. Masaryka 130, 53821 Slatiňany",
+"tel": "735 725 754"
+},
+"2755": {
+"addr": "Nádražní 404, 54954 Police nad Metují",
+"tel": "735 725 755"
+},
+"2757": {
+"addr": "Bratří Venclíků 1139/3, 19800 Praha",
+"tel": "735 725 757"
+},
+"2758": {
+"addr": "třída Míru 70, 53002 Pardubice",
+"tel": "735 725 758"
+},
+"2759": {
+"addr": "Havlíčkova 210, 73701 Český Těšín",
+"tel": "735 725 759"
+},
+"2760": {
+"addr": "Novinářská 3178/6a, 70200 Ostrava",
+"tel": "735 725 760"
+},
+"2761": {
+"addr": "Boleslavská 1901, 25001 Brandýs nad Labem-Stará Boleslav",
+"tel": "771 262 761"
+},
+"2762": {
+"addr": "Okružní 732/5, 63800 Brno",
+"tel": "735 725 762"
+},
+"2764": {
+"addr": "Veronské nám. 403, 10900 Praha",
+"tel": "735 725 764"
+},
+"2766": {
+"addr": "J. Palacha 3197/13, 69002 Břeclav",
+"tel": "735 725 766"
+},
+"2767": {
+"addr": "Havlíčkova 1499, 29301 Mladá Boleslav",
+"tel": "771 262 767"
+},
+"2769": {
+"addr": "Sofijské náměstí 3404/3, 14300 Praha",
+"tel": "735 725 769"
+},
+"2770": {
+"addr": "Makovského 1334/26, 16300 Praha",
+"tel": "735 725 770"
+},
+"2771": {
+"addr": "Poděbradská 590, 53009 Pardubice",
+"tel": "735 725 771"
+},
+"2772": {
+"addr": "Brandlova 1375/14, 69701 Kyjov",
+"tel": "735 725 772"
+},
+"2773": {
+"addr": "Smetanova 2360, 75501 Vsetín",
+"tel": "735 725 773"
+},
+"2774": {
+"addr": "17. listopadu 1431, 73514 Orlová",
+"tel": "735 725 774"
+},
+"2775": {
+"addr": "Seifertova 2919/12, 13000 Praha",
+"tel": "735 725 775"
+},
+"2776": {
+"addr": "Pražská 199, 53006 Pardubice",
+"tel": "735 725 776"
+},
+"2777": {
+"addr": "Wágnerova 1115/1, 61400 Brno",
+"tel": "735 725 777"
+},
+"2779": {
+"addr": "Masarykovo náměstí 281, 29501 Mnichovo Hradiště",
+"tel": "735 725 779"
+},
+"2781": {
+"addr": "Příbramská 2120, 26301 Dobříš",
+"tel": "735 725 781"
+},
+"2782": {
+"addr": "Toužínská 199, 38001 Dačice",
+"tel": "735 725 782"
+},
+"2783": {
+"addr": "Zruč nad Sázavou 1153, 28522 Zruč nad Sázavou",
+"tel": "735 725 783"
+},
+"2784": {
+"addr": "Nádražní 1126, 73991 Jablunkov",
+"tel": "735 725 784"
+},
+"2785": {
+"addr": "Šluknovská 3080, 47001 Česká Lípa",
+"tel": "735 725 785"
+},
+"2786": {
+"addr": "Na Křižanově pile 944, 75701 Valašské Meziříčí",
+"tel": "735 725 786"
+},
+"2787": {
+"addr": "Pražská 32, 26101 Příbram",
+"tel": "735 725 787"
+},
+"2789": {
+"addr": "Poděbradská 1011/46a, 19000 Praha",
+"tel": "735 725 789"
+},
+"2791": {
+"addr": "Gen. Hlaďo 1849/25, 74101 Nový Jičín",
+"tel": "771 262 791"
+},
+"2793": {
+"addr": "Masarykovo nám. 150/24, 79001 Jeseník",
+"tel": "735 725 793"
+},
+"2794": {
+"addr": "Plumlovská 4126, 79604 Prostějov",
+"tel": "735 725 794"
+},
+"2795": {
+"addr": "U Věže 1806, 34901 Stříbro",
+"tel": "771 262 795"
+},
+"2797": {
+"addr": "tř. Budovatelů 1986, 43401 Most",
+"tel": "735 725 797"
+},
+"2798": {
+"addr": "Žižkovo náměstí 5762, 43001 Chomutov",
+"tel": "735 725 798"
+},
+"2799": {
+"addr": "Průmyslová 666, 37501 Týn nad Vltavou",
+"tel": "771 262 799"
+},
+"2800": {
+"addr": "Mileny Hážové 1544, 29301 Mladá Boleslav",
+"tel": "735 725 800"
+},
+"2801": {
+"addr": "Poříčí 2610, 67801 Blansko",
+"tel": "771 262 801"
+},
+"2802": {
+"addr": "Potoční 1632, 37341 Hluboká nad Vltavou",
+"tel": "735 725 802"
+},
+"2803": {
+"addr": "Soběslavská 3220, 39005 Tábor",
+"tel": "771 262 803"
+},
+"2804": {
+"addr": "Olbrachtova 1929/62, 14000 Praha",
+"tel": "735 725 804"
+},
+"2805": {
+"addr": "Průhon 1101, 53803 Heřmanův Městec",
+"tel": "771 262 805"
+},
+"2806": {
+"addr": "tř. 17. listopadu 714/6a, 73401 Karviná",
+"tel": "735 725 806"
+},
+"2808": {
+"addr": "K Lávce 1181/3, 70200 Ostrava",
+"tel": "771 262 808"
+},
+"2809": {
+"addr": "Bílovecká 386, 74245 Fulnek",
+"tel": "771 262 809"
+},
+"2810": {
+"addr": "Karlov 2360, 59401 Velké Meziříčí",
+"tel": "771 262 810"
+},
+"2811": {
+"addr": "Hostovského 660, 54931 Hronov",
+"tel": "771 262 811"
+},
+"2812": {
+"addr": "Hašlerova 842/21a, 79395 Město Albrechtice",
+"tel": "771 262 812"
+},
+"2814": {
+"addr": "V Kasárnách 670, 38451 Volary",
+"tel": "771 262 814"
+},
+"2815": {
+"addr": "třída Tomáše Bati 508, 76001 Zlín",
+"tel": "771 262 815"
+},
+"2816": {
+"addr": "Na Dolině 778, 59501 Velká Bíteš",
+"tel": "771 262 816"
+},
+"2818": {
+"addr": "Klapkova 1902/12, 18200 Praha",
+"tel": "771 262 818"
+},
+"2819": {
+"addr": "Veselská 946, 68724 Uherský Ostroh",
+"tel": "771 262 819"
+},
+"2820": {
+"addr": "Josefa Houdka 900, 15531 Praha",
+"tel": "735 725 820"
+},
+"2821": {
+"addr": "Masarykova 1048, 66461 Rajhrad",
+"tel": "771 262 821"
+},
+"2823": {
+"addr": "17. listopadu 3150, 54401 Dvůr Králové nad Labem",
+"tel": "771 262 823"
+},
+"2824": {
+"addr": "náměstí Karla IV. 155, 36221 Nejdek",
+"tel": "771 262 824"
+},
+"2825": {
+"addr": "Ústecká 850, 56151 Letohrad",
+"tel": "771 262 825"
+},
+"2826": {
+"addr": "Tř. Maršála Malinovského 1304, 68601 Uherské Hradiště",
+"tel": "771 262 826"
+},
+"2827": {
+"addr": "Bílkova 270, 29001 Poděbrady",
+"tel": "771 262 827"
+},
+"2828": {
+"addr": "V Hůrce 489, 25101 Dobřejovice",
+"tel": "771 262 828"
+},
+"2829": {
+"addr": "V háji 1633/12, 17000 Praha",
+"tel": "771 262 829"
+},
+"2830": {
+"addr": "Temenická 3439/31, 78701 Šumperk",
+"tel": "771 262 830"
+},
+"2831": {
+"addr": "Ečerova 1231/2b, 63500 Brno",
+"tel": "771 262 831"
+},
+"2832": {
+"addr": "Okružní 1975, 39601 Humpolec",
+"tel": "771 262 832"
+},
+"2833": {
+"addr": "Hranická 1764, 75131 Lipník nad Bečvou",
+"tel": "771 262 833"
+},
+"2834": {
+"addr": "Nádražní 2590, 39701 Písek",
+"tel": "771 262 834"
+},
+"2835": {
+"addr": "Klimenta Čermáka 1599, 28601 Čáslav",
+"tel": "771 262 835"
+},
+"2836": {
+"addr": "Staroměstská 848, 35735 Chodov",
+"tel": "771 262 836"
+},
+"2837": {
+"addr": "Krupská 33/20, 41501 Teplice",
+"tel": "771 262 837"
+},
+"2838": {
+"addr": "třída 5. května 1103/1a, 37372 Lišov",
+"tel": "771 262 838"
+},
+"2839": {
+"addr": "U Panelárny 2192, 73934 Šenov",
+"tel": "771 262 839"
+},
+"2840": {
+"addr": "Jana Sigmunda 314, 78349 Lutín",
+"tel": "771 262 840"
+},
+"2841": {
+"addr": "Janáčkova 0, 51754 Vamberk",
+"tel": "771 262 841"
+},
+"2842": {
+"addr": "Žižkova 2017/1b, 73301 Karviná",
+"tel": "771 262 842"
+},
+"2843": {
+"addr": "Lipnická 3657/6, 75002 Přerov",
+"tel": "771 262 843"
+},
+"2844": {
+"addr": "U Vodojemu 1005, 39165 Bechyně",
+"tel": "771 262 844"
+},
+"2845": {
+"addr": "Lidická tř. 480/65, 37001 České Budějovice",
+"tel": "771 262 845"
+},
+"2846": {
+"addr": "Palackého 1154, 54232 Úpice",
+"tel": "771 262 846"
+},
+"2847": {
+"addr": "Na Pile 0, 28144 Zásmuky",
+"tel": "771 262 847"
+},
+"2849": {
+"addr": "Lužická 291, 47125 Jablonné v Podještědí",
+"tel": "771 262 849"
+},
+"2850": {
+"addr": "Záfortenská 2116-1, 27401 Slaný",
+"tel": "771 262 850"
+},
+"2852": {
+"addr": "Frenštátská 0, 73911 Frýdlant nad Ostravicí",
+"tel": "771 262 852"
+},
+"2853": {
+"addr": "Pod Šenkem 1906, 74401 Frenštát pod Radhoštěm",
+"tel": "771 262 853"
+},
+"2854": {
+"addr": "Plzeňská 581, 36401 Toužim",
+"tel": "771 262 854"
+},
+"2856": {
+"addr": "Brněnská 516, 67401 Třebíč",
+"tel": "771 262 856"
+},
+"2859": {
+"addr": "Plavská 999, 37007 Roudné",
+"tel": "771 262 859"
+},
+"2860": {
+"addr": "Pelhřimovská 70/3, 58601 Jihlava",
+"tel": "771 262 860"
+},
+"2863": {
+"addr": "Hlavní třída 3274, 73801 Frýdek-Místek",
+"tel": "771 262 863"
+},
+"2865": {
+"addr": "U dálnice 777, 66442 Modřice",
+"tel": "771 262 865"
+},
+"2866": {
+"addr": "tř. Osvobození 0, 74235 Odry",
+"tel": "771 262 866"
+},
+"2869": {
+"addr": "Želetavská 1525/1, 14000 Praha",
+"tel": "771 262 869"
+},
+"2870": {
+"addr": "Seifertova 836/46, 13000 Praha",
+"tel": "771 262 870"
+},
+"2871": {
+"addr": "Těšínská 2914/44, 74601 Opava",
+"tel": "771 262 871"
+},
+"3004": {
+"addr": "Komenského 72, 54901 Nové Město nad Metují",
+"tel": "737 657 900"
+},
+"3005": {
+"addr": "T. G. Masaryka 407, 56501 Choceň",
+"tel": "734 165 825"
+},
+"3007": {
+"addr": "Havlíčkova 1368, 51601 Rychnov nad Kněžnou",
+"tel": "606 645 626"
+},
+"3008": {
+"addr": "Oplanská 2614, 19016 Praha",
+"tel": "722 610 718"
+},
+"3009": {
+"addr": "Horní příkopy 68/7, 39201 Soběslav",
+"tel": "776 654 515"
+},
+"3012": {
+"addr": "6. května 74, 76861 Bystřice pod Hostýnem",
+"tel": "733 404 779"
+},
+"3016": {
+"addr": "Strnadova 51, 54701 Náchod",
+"tel": "773 117 920"
+},
+"3018": {
+"addr": "nám. Dr. E. Beneše 56/10, 76901 Holešov",
+"tel": "722 542 777"
+},
+"3020": {
+"addr": "Nádražní 86, 56301 Lanškroun",
+"tel": "777 022 126"
+},
+"3021": {
+"addr": "nám. Svobody 35/1, 67801 Blansko",
+"tel": "516 418 651"
+},
+"3022": {
+"addr": "Sokolská 162, 54941 Červený Kostelec",
+"tel": "777 177 332"
+},
+"3023": {
+"addr": "1. máje 100/7, 74235 Odry",
+"tel": "734 269 242"
+},
+"3024": {
+"addr": "Přeštická 1062, 33441 Dobřany",
+"tel": "602 877 084"
+},
+"3026": {
+"addr": "Masarykovo nám. 137, 76312 Vizovice",
+"tel": "722 542 707"
+},
+"3027": {
+"addr": "náměstí Jiřího z Poděbrad 153, 50801 Hořice",
+"tel": "731 536 209"
+},
+"3028": {
+"addr": "Pražská 152/46, 29471 Benátky nad Jizerou",
+"tel": "721 134 297"
+},
+"3030": {
+"addr": "Bří Lužů 125, 68801 Uherský Brod",
+"tel": "572 637 020"
+},
+"3032": {
+"addr": "Revoluční 1252, 33023 Nýřany",
+"tel": "778 806 789"
+},
+"3033": {
+"addr": "Masarykovo náměstí 184, 76601 Valašské Klobouky",
+"tel": "577 320 620"
+},
+"3036": {
+"addr": "Palackého nám. 638, 56943 Jevíčko",
+"tel": "464 620 227"
+},
+"3037": {
+"addr": "Hejnická 1136, 46401 Frýdlant",
+"tel": "734 269 313"
+},
+"3038": {
+"addr": "Na Mýtě 587, 51301 Semily",
+"tel": "734 176 470"
+},
+"3039": {
+"addr": "Masarykovo náměstí 171, 56401 Žamberk",
+"tel": "602 482 888"
+},
+"3040": {
+"addr": "Mírové nám. 133, 56201 Ústí nad Orlicí",
+"tel": "734 269 261"
+},
+"3041": {
+"addr": "Mírová 78, 47124 Mimoň",
+"tel": "735 725 506"
+},
+"3044": {
+"addr": "Italská 700, 28924 Milovice",
+"tel": "739 831 325"
+},
+"3045": {
+"addr": "Obchodní náměstí 1590/4, 14300 Praha",
+"tel": "734 200 297"
+},
+"3048": {
+"addr": "U Nádraží 1298, 51101 Turnov",
+"tel": "770 114 853"
+},
+"3051": {
+"addr": "Novohradská 55, 38241 Kaplice",
+"tel": "734 176 533"
+},
+"3052": {
+"addr": "U Polikliniky 1134, 56401 Žamberk",
+"tel": "602 198 200"
+},
+"3053": {
+"addr": "Jana Zajíce 982, 53012 Pardubice",
+"tel": "734 176 621"
+},
+"3054": {
+"addr": "náměstí Míru 198/23, 79501 Rýmařov",
+"tel": "734 176 514"
+},
+"3055": {
+"addr": "Hradecká 1265, 53401 Holice",
+"tel": "771 269 875"
+},
+"3056": {
+"addr": "Obchodní 2155, 28922 Lysá nad Labem",
+"tel": "728 954 914"
+},
+"3057": {
+"addr": "Špidrova 190, 38501 Vimperk",
+"tel": "778 707 627"
+}
+}
