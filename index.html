@@ -210,8 +210,10 @@ function showPinImage(src){
   ov.style.display='flex';
   setTimeout(()=>{ov.style.display='none';document.getElementById('lerr').textContent='';pv='';ud();},3000);
 }
+let easterEggEnabled = false;
 function ps(){
-  if(pv==='1992'){document.getElementById('lock').classList.add('hidden');document.getElementById('srch').focus();return;}
+  if(pv==='1991'){easterEggEnabled=true;document.getElementById('lock').classList.add('hidden');document.getElementById('srch').focus();return;}
+  if(pv==='1992'){easterEggEnabled=false;document.getElementById('lock').classList.add('hidden');document.getElementById('srch').focus();return;}
   if(PIN_IMAGES[pv]){ showPinImage(PIN_IMAGES[pv]); return; }
   document.getElementById('lerr').textContent='Nesprávný kód.';pv='';ud();
   const b=document.querySelector('.lb');b.style.transform='translateX(-8px)';
@@ -871,7 +873,7 @@ document.getElementById('tlogo').src = TETA_LOGO;
     logo.classList.add(shakeClass());
     const n = dropCount();
     for(let i=0; i<n; i++) setTimeout(spawnOne, i*60);
-    if(clicks >= 12) showBosses();
+    if(clicks >= 12 && easterEggEnabled) showBosses();
   });
 })();
 
